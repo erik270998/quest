@@ -7,7 +7,7 @@ function Animation(props) {
   return (
     <Canvas
       camera={{
-        fov: 40,
+        fov: 20,
         position: [0, 0.2, 4],
       }}
       shadowMap
